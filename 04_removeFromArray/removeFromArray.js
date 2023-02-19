@@ -6,7 +6,6 @@ const removeFromArray = function(array, ...itemsToBeRemoved) {
         }
         continue;
     }
-    console.log(array);
     return array;
 };
 
